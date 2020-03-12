@@ -8,20 +8,20 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:479766240309:android:8b46c0cc8f79a90d",
+        "mobilesdk_app_id": "app id",
         "android_client_info": {
           "package_name": "com.laytest.hacker.vip"
         }
       },
       "oauth_client": [
         {
-          "client_id": "479766240309-eo3m4bna4f1l2g83e5h8nmpb1u937u9k.apps.googleusercontent.com",
+          "client_id": "client id",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDwM8B7XbFeTsaiyJHFmFLyuzJxroPTAyw"
+          "current_key": "app key"
         }
       ],
       "services": {
