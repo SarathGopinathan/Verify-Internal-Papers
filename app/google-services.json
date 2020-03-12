@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "479766240309",
+    "firebase_url": "https://vip-8c41d.firebaseio.com",
+    "project_id": "vip-8c41d",
+    "storage_bucket": "vip-8c41d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479766240309:android:8b46c0cc8f79a90d",
+        "android_client_info": {
+          "package_name": "com.laytest.hacker.vip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479766240309-eo3m4bna4f1l2g83e5h8nmpb1u937u9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwM8B7XbFeTsaiyJHFmFLyuzJxroPTAyw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
